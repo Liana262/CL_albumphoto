@@ -6,4 +6,5 @@
 2. Запустить в консоли с помощью питона
 
 Пример запуска команды:
-py.exe .\cloudphoto.py <command_name> --album <album_name> --path <path>
+
+py.exe .\cloudphoto.py [command_name] --album [album_name] --path [path]
